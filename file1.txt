@@ -7,4 +7,9 @@ hh
 3 no 2
 file2
 this is edited by dev branch
-edited by dev branch caiguai  ,it's master
+<<<<<<< HEAD
+edited by dev branch caiguai ,it's master
+ 
+edited by dev branch haha
+but eventuallt ,it's master
+ 
